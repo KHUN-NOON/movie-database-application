@@ -3,7 +3,7 @@ import ApplicationRoute from "./ApplicationRoutes"
 
 const MainRoute = () => {
     return (
-        <BrowserRouter>
+        <BrowserRouter basename="/movie-database-application">
             <ApplicationRoute/>
         </BrowserRouter>
     )
