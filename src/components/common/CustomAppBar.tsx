@@ -1,4 +1,4 @@
-import { AppBar, Box, IconButton, TextField, Toolbar, Typography, useMediaQuery, useTheme } from "@mui/material"
+import { AppBar, Box, IconButton, Toolbar, Typography } from "@mui/material"
 import MovieFilm from '../../assets/icons/movie-film.svg'
 import { Search } from "@mui/icons-material"
 import { useLocation, useNavigate } from "react-router-dom"

@@ -2,7 +2,7 @@ import { Route, Routes } from "react-router-dom"
 import Home from "../screens/Home"
 import Detail from "../screens/Detail"
 import Search from "../screens/Search"
-import { Box, CssBaseline, useTheme } from "@mui/material"
+import { CssBaseline, useTheme } from "@mui/material"
 import CustomAppBar from "../components/common/CustomAppBar"
 import RouteConainer from "../components/common/RouteContainer"
 
