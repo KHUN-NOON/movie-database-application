@@ -14,6 +14,8 @@ const SearchResult = (props: ISearchResult) => {
     const { searchResult, isLoading } = props
 
     const handlePageChange = (e: React.ChangeEvent<unknown>, value: number) => {
+        console.log(e)
+
         setPage(value)
     }
 

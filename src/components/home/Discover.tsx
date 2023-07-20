@@ -10,6 +10,8 @@ const Discover = () => {
     const { data: movies, isFetching } = useGetMovieDiscoverQuery({page: page})
 
     const handlePageChange = (e: React.ChangeEvent<unknown>, value: number) => {
+        console.log(e)
+
         setPage(value)
     }
 
