@@ -4,6 +4,14 @@ Technical Interview Assignment
 # Api Source
 https://www.themoviedb.org/
 
+# Descriptions 
+Simple movie database app in which can search about movies or films.
+
+# Installing 
+1. pull the project from git
+2. In terminal 'npm install'
+3. In terminal 'npm run dev' and you are good to go
+
 # Tooling Used
 <p align="center">
   <a href="https://vitejs.dev" target="_blank" rel="noopener noreferrer">
