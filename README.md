@@ -4,6 +4,8 @@ Technical Interview Assignment
 # App Demo
 link - https://khun-noon.github.io/movie-database-application/detail/298618
 
+if not working give it a try with VPN.
+
 # Api Source
 https://www.themoviedb.org/
 
